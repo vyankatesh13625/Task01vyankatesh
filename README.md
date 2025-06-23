@@ -1,11 +1,11 @@
 # Task01vyankatesh
 # Titanic Dataset - Data Cleaning and Preprocessing
 
-##Task Overview
+#Task Overview
 
 This task is part of an AI/ML Internship where the objective was to clean and preprocess the Titanic dataset to prepare it for machine learning models.
 
-##Steps Performed
+#Steps Performed
 
 1. Loaded the Titanic dataset using **Pandas**.
 2. Explored the dataset using `.info()`, `.describe()`, and visualizations.
@@ -17,13 +17,13 @@ This task is part of an AI/ML Internship where the objective was to clean and pr
 6. Detected and removed outliers in `Fare` using the **IQR method** and boxplots.
 7. Saved the cleaned dataset as `cleaned_titanic.csv`.
 
-##Files Included
+#Files Included
 
 - `titanic_task.ipynb`: Main Jupyter Notebook (Google Colab) with all preprocessing steps.
 - `cleaned_titanic.csv`: Final cleaned dataset after preprocessing.
 - `README.md`: This file.
 
-##Tools and Libraries Used
+#Tools and Libraries Used
 
 - Python
 - Pandas
@@ -32,10 +32,10 @@ This task is part of an AI/ML Internship where the objective was to clean and pr
 - Matplotlib
 - scikit-learn
 
-##Dataset Source
+#Dataset Source
 
 - Titanic Dataset from Kaggle: [Link](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
-##Submission
+#Submission
 
 Uploaded to GitHub as part of the internship submission.
